@@ -1,0 +1,6 @@
+c:\users\александр\documents\visual studio 2012\Projects\clasificationStandart\clasificationStandart\bin\Debug\clasificationStandart.exe.config
+c:\users\александр\documents\visual studio 2012\Projects\clasificationStandart\clasificationStandart\bin\Debug\clasificationStandart.exe
+c:\users\александр\documents\visual studio 2012\Projects\clasificationStandart\clasificationStandart\bin\Debug\clasificationStandart.pdb
+c:\users\александр\documents\visual studio 2012\Projects\clasificationStandart\clasificationStandart\obj\Debug\clasificationStandart.csprojResolveAssemblyReference.cache
+c:\users\александр\documents\visual studio 2012\Projects\clasificationStandart\clasificationStandart\obj\Debug\clasificationStandart.exe
+c:\users\александр\documents\visual studio 2012\Projects\clasificationStandart\clasificationStandart\obj\Debug\clasificationStandart.pdb

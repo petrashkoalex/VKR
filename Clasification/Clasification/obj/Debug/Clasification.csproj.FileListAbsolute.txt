@@ -1,0 +1,6 @@
+c:\users\александр\documents\visual studio 2012\Projects\Clasification\Clasification\bin\Debug\Clasification.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Clasification\Clasification\bin\Debug\Clasification.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Clasification\Clasification\bin\Debug\Clasification.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Clasification\Clasification\obj\Debug\Clasification.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Clasification\Clasification\obj\Debug\Clasification.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\Clasification\Clasification\obj\Debug\Clasification.pdb

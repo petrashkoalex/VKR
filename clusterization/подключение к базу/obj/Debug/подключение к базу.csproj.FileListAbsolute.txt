@@ -1,0 +1,6 @@
+c:\users\александр\documents\visual studio 2012\Projects\подключение к базу\подключение к базу\bin\Debug\подключение к базу.exe.config
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\подключение к базу\подключение к базу\obj\Debug\подключение к базу.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\подключение к базу\подключение к базу\bin\Debug\подключение к базу.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\подключение к базу\подключение к базу\bin\Debug\подключение к базу.pdb
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\подключение к базу\подключение к базу\obj\Debug\подключение к базу.exe
+C:\Users\Александр\Documents\Visual Studio 2012\Projects\подключение к базу\подключение к базу\obj\Debug\подключение к базу.pdb
